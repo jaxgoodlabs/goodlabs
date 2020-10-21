@@ -12,11 +12,11 @@ This project is about removing the barriers that keep social production flowing 
 
 ## What is Social Production?
 
-The term social production is used here to denote a mixture of the following to concepts:
+The term social production is used here to denote a mixture of the following two concepts:
+
+> “Commons-based peer production is a term coined by Harvard Law School professor Yochai Benkler. It describes a new model of socioeconomic production in which large numbers of people work cooperatively (usually over the Internet). Commons-based projects generally have less rigid hierarchical structures than those under more traditional business models. Often—but not always—commons-based projects are designed without a need for financial compensation for contributors. The term is often used interchangeably with the term social production.” ([Peer Production, P2PF Wiki](https://wiki.p2pfoundation.net/Peer_Production.))
 
 > "Social production is found when people take the initiative to pose solutions to the problems arising from their living conditions. Partners in social production can be informal groups or local organizations, and/or other actors external to the community, such as NGOs, donors, private sector enterprises, cooperatives[1], professional associations, academics or government institutions, or any combination of these." ([Social Production of Habitat, Wikipedia](https://en.wikipedia.org/wiki/Social_production_of_habitat#:~:text=Social%20production%20is%20usually%20characterized,assets%20in%20the%20development%20process.))
-
-> "Commons-based peer production is a term coined by Harvard Law School professor Yochai Benkler to describe a new model of economic production in which the creative energy of large numbers of people is coordinated (usually with the aid of the internet) into large, meaningful projects, mostly without traditional hierarchical organization or financial compensation. He compares commons-based peer production to firm production (where a centralized decision process decides what has to be done and by whom) and market-based production (when tagging different prices to different jobs serves as an attractor to anyone interested in doing the job). ([Commons Based Peer Production, P2PF Wiki](https://wiki.p2pfoundation.net/Commons-Based_Peer_Production))
 
 ## Join the Project!
 
