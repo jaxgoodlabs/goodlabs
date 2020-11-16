@@ -1,6 +1,6 @@
 # GoodLabs
 
-GoodLabs is a hub for [commons-based peer production](https://wiki.p2pfoundation.net/Commons-Based_Peer_Production) providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations.
+GoodLabs is a hub for [social production](https://wiki.p2pfoundation.net/Commons-Based_Peer_Production) providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations.
 
 ## Background
 
